@@ -1,3 +1,18 @@
+# TODO Creating an agent based model of ML decision makers using reinforcment learning.
+
+Machine learning in social science simulations. Reinforcement learning based models of interacting agents in agent based modeling.
+
+"Teaching Agents to predict the behavior of other agents under uncertainty, an interconnected machine of machine learning constructs"
+
+1. The pure agent based modeling simulation of actors having uncertainty of how well other actors "know" what the correct answer is, aka you can't guess their "rationality" which is approximated by that actors position on the loss gradient membrane.
+
+Each actor is updating both their own prediction of some value, and also their prediction of their neighbors prediction via backprop reinforcement learning.
+
+2. An ML archetype, a kind of mass opinion predictive model.
+
+3. A comparison in a pure computer science way to a random forest and mixture of experts NN architecurrally and perfomatively.
+
+
 # Train RL agents to play Pokemon Red
 
 ### New 1-29-24! - [Multiplayer Live Training Broadcast](https://github.com/pwhiddy/pokerl-map-viz/)  🎦 🔴 [View Here](https://pwhiddy.github.io/pokerl-map-viz/)
